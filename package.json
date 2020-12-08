@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Clase 04",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisomp/curso-nodejs.git"
+  },
+  "author": "Cristian Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisomp/curso-nodejs/issues"
+  },
+  "homepage": "https://github.com/crisomp/curso-nodejs#readme",
+  "dependencies": {
+    "xpress": "^2.4.6"
+  }
+}
